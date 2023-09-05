@@ -1,0 +1,16 @@
+{
+    "name": "expresses",
+    "version": "1.0.0",
+    "description": "node website",
+    "main": "app.js",
+    "scripts": {
+        "test": "apps in node"
+    },
+    "author": "rohit",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pub": "^0.2.0",
+        "pug": "^3.0.2"
+    }
+}
